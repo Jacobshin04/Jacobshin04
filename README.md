@@ -1,8 +1,7 @@
 ### 👋 Hi, I’m Jacob Shin (@Jacobshin04)  
 - 💻 I’m passionate about coding, backend development, and optimization.  
-- ⚽ I enjoy playing soccer and guitar in my free time.  
-- 🌱 Currently learning Node.js, Express.js, and MongoDB.  
-- 📫 Reach me at **k.jacobshin@gmail.com**  
+- ⚽ I enjoy playing soccer and guitar in my free time.   
+- 📫 Reach me at **jacob_shin@berkeley.edu**  
 - 😄 Pronouns: He/Him  
 - 🌍 Fun fact: I’m from Korea and came to the U.S. for college! I’ve also traveled to 20+ countries.  
 
